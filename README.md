@@ -25,4 +25,4 @@ This dataset is named [Loan Prediction Dataset](https://www.kaggle.com/datasets/
 ## The main objective for this dataset:
 Using machine learning techniques to predict loan payments.
 
-### **target value:** Loan_Status
+<summary><b>Target Value: Loan_Status</b></summary>
