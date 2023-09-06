@@ -3,8 +3,8 @@ In finance, a loan is the lending of money by one or more individuals, organizat
 
 **The major aim of this notebook is to predict which of the customers will have their loan approved.**
 
-### Data Id 📋
-This dataset is named Loan Prediction Dataset data set. The dataset contains a set of 613 records under 13 attributes:
+## Data Id
+This dataset is named [Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset) data set. The dataset contains a set of 613 records under 13 attributes:
 
 | Column             | Description                                       |
 |--------------------|---------------------------------------------------|
@@ -22,3 +22,7 @@ This dataset is named Loan Prediction Dataset data set. The dataset contains a s
 | Property_Area      | Area type (Urban/Semi-Rural/Rural).              |
 | Loan_Status        | Loan approval status (Y/N).                      |
 
+### The main objective for this dataset:
+Using machine learning techniques to predict loan payments.
+
+**target value:** Loan_Status
