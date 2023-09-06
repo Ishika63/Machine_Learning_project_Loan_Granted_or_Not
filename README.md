@@ -22,7 +22,7 @@ This dataset is named [Loan Prediction Dataset](https://www.kaggle.com/datasets/
 | Property_Area      | Area type (Urban/Semi-Rural/Rural).              |
 | Loan_Status        | Loan approval status (Y/N).                      |
 
-### The main objective for this dataset:
+## The main objective for this dataset:
 Using machine learning techniques to predict loan payments.
 
-**target value:** Loan_Status
+<h3><b>target value:</b></h3> Loan_Status
